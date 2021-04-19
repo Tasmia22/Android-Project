@@ -12,7 +12,7 @@ Significance: It will give a clear picture of our day-to-day cost and will help 
 Function: 
 Mainactivity looks like this and is linked to studentmode. By clicking the STUDENT MODE button user can go the next page.
 <br/>
-![1st page](picture of MCCalcullator/1st page.png)
+![1st page](https://github.com/Tasmia22/Android-Project/tree/master/picture%20of%20MCCalcullator/1st page.png)
 Cost activity is designed to collect data and save.
 
 If the cost exceeds the main balance then value of REMAINING COST will be shown in Red color to give alert.
