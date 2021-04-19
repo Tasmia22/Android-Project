@@ -11,7 +11,7 @@ It’s an android application for calculating monthly cost. Initially it is main
 Significance: It will give a clear picture of our day-to-day cost and will help us to be economical.
 Function: 
 Mainactivity looks like this and is linked to studentmode. By clicking the STUDENT MODE button user can go the next page.
-![image_ground_truth](image/GT.jpg)
+![1st page](picture of MCCalcullator/1st page.png)
 Cost activity is designed to collect data and save.
 
 If the cost exceeds the main balance then value of REMAINING COST will be shown in Red color to give alert.
